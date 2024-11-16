@@ -1,7 +1,6 @@
 import unittest
 from datetime import datetime
 
-# Assuming your project.py functions and logic have been imported correctly
 from project import validate_date_input
 
 class TestStockVisualizerInputs(unittest.TestCase):
